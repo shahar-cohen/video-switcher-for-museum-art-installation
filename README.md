@@ -1,6 +1,8 @@
 # video-switcher-for-museum-art-installation
-Switches between video file and camera feed upon detection of movement. 
+Switches between video file and camera feed upon detection of movement.
+
 highly customizable.
+
 Made for an installation at the Bauhaus exhibit in the Israel Museum (picture included)
 
 # Instructions:
