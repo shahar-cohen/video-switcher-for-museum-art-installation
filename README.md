@@ -3,7 +3,7 @@ Switches between video file and camera feed upon detection of movement.
 
 highly customizable.
 
-Made for an installation at the Bauhaus exhibit in the Israel Museum (picture included)
+Made for an installation at the Bauhaus exhibit in the Israel Museum (see picture above)
 
 # Instructions:
 1) install opencv package
